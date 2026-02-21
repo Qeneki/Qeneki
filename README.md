@@ -12,10 +12,5 @@
 
 ###
 
-<p align="left">I'm deepanshu from india <br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning ai/ml <br>- ⚡ In my free time I do code </p>
+<p align="left">I'm Anshu from india <br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning ai/ml <br>- ⚡ In my free time I do code </p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
